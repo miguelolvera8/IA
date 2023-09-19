@@ -1,4 +1,4 @@
-#round() es para reducir decimales
-#print(round(resultadosum,2)), al final se ve el numero de decimales a usar
-num = 28.256827688733#declaramos al numero flotante
-print(round(num,5))#imprimimos, y usamos la funcion round la cual manda como parametro la variable, luego la cantidad de decimales a reducir
+#lista = array, coleccion de elementos
+colores = ["rojo", "azul", "verde", "amarillo", "marrón", "lila", "negro", "rosa"]
+print(colores[0],colores[7])#imprime el rojo y rosa, que esa en la posicion 0 y 7
+numeros = ["tres","dos","cinco","cuatro","uno"]#aqui se ve la posicion de acuerdo a lo pedido
